@@ -22,15 +22,25 @@ BuildBuildGo gives developers complete control over application distribution.
 ### Features
 
 ✅ iOS Ad-Hoc Distribution
+
 ✅ iOS Enterprise Distribution
+
 ✅ Android APK Distribution
+
 ✅ Android AAB Support
+
 ✅ OTA Installation
+
 ✅ QR Code Installation
+
 ✅ Build Version Management
+
 ✅ Team Access Control
+
 ✅ Release Notes
+
 ✅ Self Hosted
+
 ✅ Completely Free
 
 ---
